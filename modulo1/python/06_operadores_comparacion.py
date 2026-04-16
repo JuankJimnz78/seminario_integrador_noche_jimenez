@@ -1,0 +1,10 @@
+print("Operadores de comparación")
+
+numero1=float(input("primer número: "))
+numero2=float(input("segundo número: "))
+print(numero1, "==",numero2, numero1==numero2)
+print(numero1, "!=",numero2, numero1!=numero2)
+print(numero1, ">",numero2, numero1>numero2)
+print(numero1, "<",numero2, numero1<numero2)
+print(numero1, ">=",numero2, numero1>=numero2)
+print(numero1, "<=",numero2, numero1<=numero2)
